@@ -14,6 +14,7 @@ div
 	position: sticky;
 	top: 0;
 	overflow: hidden;
+	background-color: white;
 }
 
 #NavBar a
