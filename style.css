@@ -23,6 +23,13 @@ div
 	text-align: center;
 	padding: 14px;
 	text-decoration: none;
+	color: black;
+}
+
+#NavBar a:hover
+{
+	background-color:#182b49;
+	color: white;
 }
 
 .section1
