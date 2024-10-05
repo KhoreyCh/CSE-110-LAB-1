@@ -25,12 +25,18 @@ div
 	padding: 14px;
 	text-decoration: none;
 	color: black;
+	font-size: 28px;
 }
 
 #NavBar a:hover
 {
 	background-color:#182b49;
 	color: white;
+}
+
+#UCSD\ logo img
+{
+	max-width: 400px;
 }
 
 .section1
